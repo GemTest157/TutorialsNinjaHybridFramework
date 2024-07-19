@@ -18,6 +18,8 @@ public class LoginTest extends Base{
 	
 	WebDriver driver;
 	
+	//Login page with four testcases
+	
 	@BeforeMethod
 	public void setUp()
 	{
